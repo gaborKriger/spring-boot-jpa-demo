@@ -1,4 +1,4 @@
-package com.codecool.springdemojpademo;
+package com.codecool.springjpademo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
